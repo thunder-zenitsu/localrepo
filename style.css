@@ -1,0 +1,23 @@
+/* This CSS selects all <p> elements and sets their color to red */
+p {
+    color: red;
+}
+
+/* You can add more styles for other HTML elements as needed */
+h1 {
+    font-size: 24px;
+    text-align: center;
+    /* Add more properties here */
+}
+
+/* Example for styling a button */
+.button {
+    background-color: #0074D9;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
